@@ -46,7 +46,7 @@ Welcome to the **Seerat-un-Nabi Website**! This project is a detailed, interacti
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/seerat-un-nabi.git
+   git clone https://github.com/Muhammadimam156/Seerat-Mustafa-.git
    cd seerat-un-nabi
    ```
 
